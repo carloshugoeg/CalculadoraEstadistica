@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraEstadistica", "CalculadoraEstadistica\CalculadoraEstadistica.csproj", "{F72BFD62-5598-47C3-BD67-751ED10126DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72BFD62-5598-47C3-BD67-751ED10126DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72BFD62-5598-47C3-BD67-751ED10126DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72BFD62-5598-47C3-BD67-751ED10126DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72BFD62-5598-47C3-BD67-751ED10126DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35F59FA-1313-427E-B406-46A3F4F4A0BA}
+	EndGlobalSection
+EndGlobal
